@@ -20,7 +20,7 @@ The following table lists the supported clients for use with the URI schemes:
 
 | Client | Version |
 |--|--|
-| [Remote Desktop client for Windows](users/connect-windows.md) | 1.2.4065 and later |
+| [Remote Desktop client for Windows](remote-desktop-client/connect-windows-cloud-services.md) | 1.2.4065 and later |
 
 ## Available URI schemes
 
